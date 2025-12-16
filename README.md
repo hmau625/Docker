@@ -88,6 +88,3 @@ Se mostrará el mensaje:
 
 <img width="673" height="331" alt="image" src="https://github.com/user-attachments/assets/b46f84d1-95bc-447a-9f99-5e3abfbcc90c" />
 
-“¡Hola desde un contenedor Docker!”
-
- 
